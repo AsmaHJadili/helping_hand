@@ -1,1 +1,1 @@
-"Helping Hand" هو تطبيق Flutter مصمم لمساعدة الآباء والأمهات على مراقبة ودعم الصحة النفسية لأطفالهم من خلال واجهة بسيطة ومجموعة من الألعاب التفاعلية. يتيح التطبيق للوالدين تسجيل الدخول وتتبع تقدم كل طفل بشكل منفصل.
+"Helping Hand is a Flutter application designed to assist parents in monitoring and supporting their children's mental well-being through a simple interface and a set of interactive games. The application allows parents to log in and track each child's progress separately."
