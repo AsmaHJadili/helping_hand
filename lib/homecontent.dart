@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:helping_hand/screens/game_controller_screen.dart';
 
+import 'games/start1.dart';
+
 // -----------------------------------------------------------------------
 // الألوان المستخدمة (استنتاجًا من الصور المرفقة)
 // -----------------------------------------------------------------------
@@ -183,7 +185,7 @@ class HomeContent extends StatelessWidget {
         // الانتقال إلى واجهة الألعاب (تم استخدام context الذي تم استقباله)
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => const GameControllerScreen()),
+          MaterialPageRoute(builder: (context) => Start1()),
         );
       }, // 2. عند النقر، استدعِ دالة الانتقال إلى شاشة الألعاب
       borderRadius: BorderRadius.circular(
